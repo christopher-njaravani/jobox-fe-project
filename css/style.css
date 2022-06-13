@@ -28,6 +28,11 @@ div.new2{
 	margin-top:60px;
 	font-weight:bold;
 }
+.fixed2{
+	margin-top:30px;
+	font-weight:bold;
+	color:black;
+}
 .between{
 	margin-top:60px;
 	font-weight:normal;
@@ -52,4 +57,20 @@ div.new2{
 }
 .numbering{
 	margin-top:10px;
+}
+.value1{
+	font-weight:bold;
+}
+.start{
+	font-weight:bold;
+	color:black;
+}
+.appList{
+	margin-left:18px;
+}
+.text{
+	font-weight:normal;
+}
+.onne{
+	margin-left: 300px;
 }
